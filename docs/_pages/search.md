@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Search
+title: 検索
 permalink: /search/
 ---
 
