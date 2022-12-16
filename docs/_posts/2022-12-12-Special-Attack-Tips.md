@@ -1,7 +1,7 @@
 ---
 layout: post
 title: スペシャルアタックのヒント
-categories: [PokémonGO, PokémonGO-Post-Tips]
+categories: [PokemonGO, PokemonGO-Post-Tips]
 ---
 **ヒント１：**画面をなぞるようにします。
 
