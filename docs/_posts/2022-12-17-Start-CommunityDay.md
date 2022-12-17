@@ -1,7 +1,7 @@
 ---
 layout: post
 title: コミュニティ・デイ（2022/12）がスタート
-categories: [PokemonGO, PokemonGO-News]
+categories: [PokemonGO, PokemonGO-Post-News]
 ---
 2022/12のコミュニティ・デイがスタートしました。
 
