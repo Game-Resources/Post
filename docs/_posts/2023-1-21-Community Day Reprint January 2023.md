@@ -11,3 +11,7 @@ categories: [PokemonGO, PokemonGO-Post-Event]
 詳細は、
 [公式サイト](https://pokemongolive.com/post/community-day-classic-Larvitar-january-2023?hl=ja)
 をご覧ください。
+
+## 参考
+
+- [https://pokemongolive.com/post/community-day-classic-Larvitar-january-2023?hl=ja](https://pokemongolive.com/post/community-day-classic-Larvitar-january-2023?hl=ja)
