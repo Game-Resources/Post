@@ -8,6 +8,13 @@ categories: [PokemonGO, PokemonGO-Event]
 
 - 日本時間：2023/02/08 (水) 10:00 から 2023/02/14 (火) 20:00 まで
 
+### イベントツリー
+
+- バレンタインイベント
+    -  [ラブカス限定リサーチ](https://moton-03.github.io/Game-Resources-Post/Exclusive-Research-on-Labcus/)
+
+    - [バレンタインのグローバルチャレンジ](https://moton-03.github.io/Game-Resources-Post/Valentine's-Global-Challenge/)
+
 ## ポイント
 
 - メガサーナイト初登場
@@ -31,6 +38,8 @@ categories: [PokemonGO, PokemonGO-Event]
 しろいはな：全地域
 
 オレンジいろのはな：全地域
+
+- [バレンタインのグローバルチャレンジ](https://moton-03.github.io/Game-Resources-Post/Valentine's-Global-Challenge/)
 
 ## イベントボーナス
 
@@ -194,16 +203,9 @@ categories: [PokemonGO, PokemonGO-Event]
 
 イベント限定ステッカーが登場
 
+### [ラブカス限定リサーチ](https://moton-03.github.io/Game-Resources-Post/Exclusive-Research-on-Labcus/)
 
-### 関係のあるイベント
-
-#### ラブカス限定リサーチ
-
-詳細は、[この記事](https://moton-03.github.io/Game-Resources-Post/Exclusive-Research-on-Labcus/)をご覧ください。
-
-#### バレンタインのグローバルチャレンジ
-
-詳細は、[この記事](https://moton-03.github.io/Game-Resources-Post/Valentine's-Global-Challenge/)をご覧ください。
+### [バレンタインのグローバルチャレンジ](https://moton-03.github.io/Game-Resources-Post/Valentine's-Global-Challenge/)
 
 ## 参考
 
