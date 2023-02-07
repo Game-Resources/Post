@@ -201,9 +201,9 @@ categories: [PokemonGO, PokemonGO-Event]
 
 詳細は、[この記事](https://moton-03.github.io/Game-Resources-Post/Exclusive-Research-on-Labcus/)をご覧ください。
 
-#### グローバルチャレンジ：バレンタイン
+#### バレンタインのグローバルチャレンジ
 
-詳細は、[公式ブログ](https://pokemongolive.com/post/valentines-day-event-2023-luvdisc-research-day?hl=ja)をご覧ください。
+詳細は、[この記事](https://moton-03.github.io/Game-Resources-Post/Valentine's-Global-Challenge/)をご覧ください。
 
 ## 参考
 
