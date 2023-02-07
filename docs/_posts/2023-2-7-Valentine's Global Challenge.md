@@ -25,3 +25,7 @@ categories: [PokemonGO, PokemonGO-Event]
 
 - ポケモンを博士に送った際に獲得するアメ：３倍
 - レベル３１以上のトレーナー：ポケモンを博士に送った際に獲得するアメXL：２倍
+
+## 参考
+
+- [https://pokemongolive.com/post/valentines-day-event-2023-luvdisc-research-day?hl=ja](https://pokemongolive.com/post/valentines-day-event-2023-luvdisc-research-day?hl=ja)
