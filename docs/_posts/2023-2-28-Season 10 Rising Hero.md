@@ -10,6 +10,10 @@ categories: [PokemonGO, PokemonGO-Event]
 
 ## イベントボーナス
 
+### エピックレイド
+
+詳細は、[シーズン１０のエピックレイド](https://game-resources.github.io/Post/Season-10-Epic-Raid/)をご覧ください。
+
 ## 参考
 
 - [https://www.youtube.com/watch?v=cd5yPeAMI-I](https://www.youtube.com/watch?v=cd5yPeAMI-I)
