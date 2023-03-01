@@ -12,7 +12,11 @@ categories: [PokemonGO, PokemonGO-Event]
 
 #### ３月１１日
 
+詳細は、[エピックレイド　２０２３年３月１１日](https://game-resources.github.io/Post/Epic-Raid-March-11-2023/)をご覧ください。
+
 #### ４月９日
+
+詳細は、[エピックレイド　２０２３年４月９日](https://game-resources.github.io/Post/Epic-Raid-April-9-2023/)をご覧ください。
 
 ## 参考
 
