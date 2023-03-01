@@ -14,6 +14,10 @@ categories: [PokemonGO, PokemonGO-Event]
 
 詳細は、[シーズン１０のエピックレイド](https://game-resources.github.io/Post/Season-10-Epic-Raid/)をご覧ください。
 
+### コミュニティ・デイ
+
+詳細は、[シーズン１０のコミュニティ・デイ](https://game-resources.github.io/Post/Season-10-Community-Day/)をご覧ください。
+
 ## 参考
 
 - [https://www.youtube.com/watch?v=cd5yPeAMI-I](https://www.youtube.com/watch?v=cd5yPeAMI-I)
