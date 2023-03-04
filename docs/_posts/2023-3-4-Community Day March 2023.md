@@ -62,6 +62,8 @@ categories: [PokemonGO, PokemonGO-Event]
 
 ### アディショナルレイド
 
+詳細は、[アディショナルレイド　２０２３年３月](https://game-resources.github.io/Post/Additional-Raid-March-2023/)をご覧ください。
+
 ### タイムチャレンジ
 
 #### タイムチャレンジ１
