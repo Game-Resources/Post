@@ -10,7 +10,7 @@ categories: [PokemonGO, PokemonGO-Event]
 
 ### コミュニティ・デイ
 
-#### 2023/03/18 (土)
+#### [2023年3月](https://game-resources.github.io/Post/Community-Day-March-2023/)
 
 #### 2023/04/15 (土)
 
