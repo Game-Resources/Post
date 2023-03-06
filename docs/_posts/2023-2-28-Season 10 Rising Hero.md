@@ -50,7 +50,7 @@ categories: [PokemonGO, PokemonGO-Event]
 
 ### 野生
 
-詳細は、[公式サイト](https://pokemongolive.com/seasons/rising-heroes?hl=ja#spawns)をご覧ください。
+詳細は、[シーズン１０の野生ポケモン](https://game-resources.github.io/Post/Season-10-Wild-Pokemon/)をご覧ください。
 
 ### タマゴ
 
