@@ -14,6 +14,28 @@ categories: [PokemonGO, PokemonGO-Event]
 
 #### エピックレイド
 
+##### レジドラゴ
+
+- 11時
+- 14時
+- 17時
+
+### タイムチャレンジ
+
+#### 限定のタイムチャレンジ
+
+##### 概要
+
+エピックレイドに挑戦したトレーナーが受け取れるタイムチャレンジです。
+
+##### 特典
+
+- レジロックのアメ
+- レジアイスのアメ
+- レジスチルのアメ
+
 ## 参考
 
 - [https://pokemongolive.com/seasons/rising-heroes?hl=ja](https://pokemongolive.com/seasons/rising-heroes?hl=ja)
+
+- 「エピックレイド」に「レジドラゴ」が登場！ – Pokémon GO. [オンライン]. で利用可能: https://pokemongolive.com/post/elite-raids-regidrago?hl=ja..
