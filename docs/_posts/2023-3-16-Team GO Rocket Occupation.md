@@ -85,13 +85,7 @@ __確率1__
 ##### 特典
 
 - スーパーロケットレーダー
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+
+## 参考
+
+- 新しいイベントでウィロー博士に協力しよう！GOロケット団の活動も活発化しているようです – Pokémon GO. [オンライン]. で利用可能: https://pokemongolive.com/post/lets-go-event-team-go-rocket-takeover?hl=ja..
