@@ -46,7 +46,7 @@ categories: [PokemonGO, PokemonGO-Event]
 
 #### 22時まで有効なボーナス
 
-現在、記事を用意しています。お待ちください。
+詳細は、[記事](https://game-resources.github.io/Post/Community-Day-Bonuses-valid-until-10pm-on-April-2023/)をご覧ください。
 
 ### スペシャルリサーチ
 
