@@ -56,7 +56,7 @@ categories: [PokemonGO, PokemonGO-Event]
 
 ### アディショナルレイド
 
-現在、記事を用意しています。お待ちください。
+詳細は、[記事](https://game-resources.github.io/Post/Additional-Raid-April-2023/)をご覧ください。
 
 ### タイムチャレンジ
 
