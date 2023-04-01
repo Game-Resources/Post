@@ -18,7 +18,7 @@ categories: [PokemonGO, PokemonGO-Event]
 
 ### スペシャルリサーチ
 
-#### スペシャルリサーチ１
+#### 博士の長い一日
 
 __概要__
 
