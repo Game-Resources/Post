@@ -50,7 +50,7 @@ categories: [PokemonGO, PokemonGO-Event]
 
 ### アディショナルレイド
 
-記事を作成中です。
+詳細は、[記事](https://game-resources.github.io/Post/Additional-Raid-May-2023/)をご覧ください。
 
 ### フィールドリサーチ
 
