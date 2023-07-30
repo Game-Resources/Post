@@ -110,3 +110,7 @@ categories: [PokemonGO, PokemonGO-Event]
 色違いあり：
 
 - メガバンギラス
+
+## 参考
+
+- https://pokemongolive.com/post/adventure-week-2023?hl=ja
