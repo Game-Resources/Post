@@ -85,3 +85,7 @@ categories: [PokemonGO, PokemonGO-Event]
 #### タイムチャレンジ１
 
 - 期限：日本時間 2023年8月8日（火）20時
+
+## 参考
+
+- https://pokemongolive.com/post/go-fest-2023-glittering-garden?hl=ja
