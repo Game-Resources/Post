@@ -80,7 +80,7 @@ categories: [PokemonGO, PokemonGO-Event]
 - エアームド
 - マッギョ（ガラルのすがた）
 
-色違いあり：
+色違いなし：
 
 - ナゲツケサル
 
