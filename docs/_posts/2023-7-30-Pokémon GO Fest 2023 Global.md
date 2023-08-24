@@ -405,3 +405,4 @@ categories: [PokemonGO, PokemonGO-Event]
 ## 参考
 
 - https://gofest.pokemongolive.com/global?hl=ja
+- https://pokemongolive.com/post/go-fest-2023-ultra-unlock?hl=ja
